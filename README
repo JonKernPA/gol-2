@@ -1,3 +1,9 @@
+This was done circa 23 April, 2010, after doing Ruby and BDD for only a couple of months.
+
+It was also done as part of a code retreat, where I was really digging blabbing and demonstrating how cool Cucumber and RSpec was. The code was written under the usual duress of the timer...
+
+...and it shows <g>. I'll try to clean it up one of these days.
+
 You can simply start playing by typing
   bin/gol
 and pressing Enter.
