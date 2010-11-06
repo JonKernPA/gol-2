@@ -1,0 +1,10 @@
+You can simply start playing by typing
+  bin/gol
+and pressing Enter.
+
+A board size of 10 doesn't last too long before it reaches a static equilibrium.
+
+A size of 25 seems to got very long. You might get bored and need to do 
+	Ctrl-C
+
+You can also run the cucumber features...
