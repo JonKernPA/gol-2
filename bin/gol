@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+$LOAD_PATH.unshift File.expand_path('../../source' , __FILE__)
+require 'gol'
+game = GameOfLife::Gol.new(STDOUT)
+  size = gets.chomp.to_i
+  if size != nil
+    puts "You entered #{size}"
+  else
+    size = 10
+  end
+game.start(size)
+game.simulate
+
